@@ -1,0 +1,7 @@
+/* src/components/Poems.css */
+.poem-card {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #f5f5f5; /* Cor de fundo dos cards */
+  margin-bottom: 20px;
+}
